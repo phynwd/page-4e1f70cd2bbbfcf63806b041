@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "39e60fc02c16cf4c80e453e5",
+  "owner": "phynwd",
+  "repo": "page-4e1f70cd2bbbfcf63806b041",
+  "title": "白嫖(Telelink)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4e1f70cd2bbbfcf63806b041",
+      "a": "白嫖(Telelink)",
+      "b": "",
+      "entity": "白嫖(Telelink)",
+      "brand": "白嫖(Telelink)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "fefe45ece32422108348413a3d790f260c25f44802e8db8da80e9c4d46e761b8",
+      "content": {
+        "keyword1": "白嫖(Telelink)",
+        "keyword2": "",
+        "primary_entity": "白嫖(Telelink)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "白嫖(Telelink)提供稳定高速的机场订阅与VPN梯子网络加速服务，支持多端客户端下载与清晰配置流程，覆盖流媒体、游戏与办公场景。欢迎访问官网获取官方下载与使用说明。",
+          "AI_DESCRIPTION": "白嫖(Telelink)提供稳定高速的机场订阅与VPN梯子网络加速服务，支持多端客户端下载与清晰配置流程，覆盖流媒体、游戏与办公场景。欢迎访问官网获取官方下载与使用说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#f6f4ef;color:#1c331c;font-size:17px;line-height:1.65}a{color:#1b5e20;text-decoration:none}header{background:#1b4332;color:#f1f8e9;padding:12px 16px} .nav-inner{max-width:1000px;margin:0 auto;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px} .brand{font-weight:700;font-size:1.15rem}nav ul{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#dcedc8;font-size:0.95rem} .ad-top{background:#e8f5e9;border-bottom:1px solid #a5d6a7;padding:8px 16px;text-align:center;font-size:0.92rem;color:#1b5e20} .wrap{max-width:1000px;margin:0 auto;padding:20px 16px} .layout{display:grid;grid-template-columns:1fr 280px;gap:28px;align-items:start}h1{font-size:1.75rem;color:#1b4332;margin:0 0 14px;line-height:1.3}h2{font-size:1.32rem;color:#1b5e20;border-bottom:2px solid #c8e6c9;padding-bottom:6px;margin:26px 0 12px}h3{font-size:1.08rem;color:#2e7d32;margin:16px 0 8px}p{margin:0 0 12px} .lead{font-size:1.02rem} .plans{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;margin:16px 0} .plan{background:#fff;border:1px solid #81c784;padding:16px;border-radius:6px} .plan.featured{border:2px solid #1b5e20;background:#f1f8e9} .badge{display:inline-block;background:#1b5e20;color:#f1f8e9;font-size:0.75rem;padding:2px 8px;border-radius:3px;margin-bottom:8px} .price{font-size:1.28rem;font-weight:700;color:#1b4332} .annual{font-size:0.88rem;color:#2e7d32;margin:4px 0 8px} .plan ul{padding-left:18px;margin:8px 0 0} .columns{display:grid;grid-template-columns:1fr 1fr;gap:16px}aside{background:#fff;border:1px solid #c8e6c9;padding:16px;border-radius:6px} .ad{background:#e8f5e9;padding:12px;margin:12px 0;font-size:0.9rem;border:1px dashed #66bb6a}details{background:#fff;border:1px solid #a5d6a7;border-radius:4px;margin:10px 0;padding:4px 12px}summary{font-weight:600;padding:8px 0;color:#1b5e20}details p{margin:0 0 10px} .steps{counter-reset:step} .steps h3{counter-increment:step}footer{background:#1b4332;color:#c8e6c9;padding:20px 16px;margin-top:36px;font-size:0.9rem} .footer-inner{max-width:1000px;margin:0 auto} .friend-links{display:flex;flex-wrap:wrap;gap:10px 14px;margin:8px 0 14px} .friend-links a{color:#a5d6a7} @media (max-width:800px){.layout{grid-template-columns:1fr}.brand{width:100%;text-align:center}nav ul{justify-content:center}} @media (max-width:600px){.columns{grid-template-columns:1fr}h1{font-size:1.5rem}body{font-size:16px}}</style><header><div class=\"nav-inner\"><div class=\"brand\">白嫖(Telelink)</div><nav><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenarios\">使用场景</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#links\">友链</a></li></ul></nav></div></header><div class=\"ad-top\">广告：使用官网推荐客户端导入机场订阅，可获得更稳定的 VPN 梯子网络加速体验。</div><div class=\"wrap\"><main><div class=\"layout\"><div class=\"content\"><h1>白嫖(Telelink) 官方网站</h1><p class=\"lead\">白嫖(Telelink) 是面向个人与团队的机场订阅与 VPN 加速服务。我们以清晰的配置流程、可预期的节点质量与多端客户端兼容，帮助用户完成网络加速、流媒体访问与游戏优化。本页为官网说明，集中介绍品牌定位、套餐、操作步骤与官方下载指引。</p><section id=\"intro\"><h2>品牌简介</h2><p>白嫖(Telelink) 提供加密传输的代理节点与通用订阅，用户可在 Clash、V2Ray、Shadowrocket 等客户端中一键导入。服务定位是稳定可用的梯子与加速器，而不是一次性试用工具。线路覆盖亚洲核心城市以及北美、欧洲入口，普通高速节点与 IPLC 专线并存，便于按场景分流。</p><p>品牌强调可落地的配置流程：开通后即可复制订阅地址，按系统下载客户端，更新节点后选择延迟合适的入口连接。Telelink 不捆绑单一软件，订阅格式对主流开源与常用商业客户端保持兼容，降低上手成本。</p><p>无论是日常跨境浏览、学术资料访问，还是对延迟敏感的对战游戏，都可以在同一套机场订阅里切换策略。官网仅提供说明与下载指引，实际节点列表以账户内最新订阅为准。</p></section><section id=\"scenarios\"><h2>使用场景</h2><div class=\"columns\"><div><h3>流媒体与内容访问</h3><p>在旗舰版与团队版中，全节点原生解锁更完整，适合连续观看与音乐服务。基础版覆盖常见平台的基础解锁，满足轻度使用。</p><h3>游戏与实时对战</h3><p>旗舰版包含 IPLC 专线游戏加速优化，适合需要更低抖动的场景。建议游戏走专线，浏览走普通节点，避免互相抢占。</p></div><div><h3>远程办公与开发</h3><p>访问代码仓库、文档站点与会议工具时，选择带宽充足、白天稳定的区域节点即可。团队版支持更多设备同时在线与定制路由。</p><h3>出行与多设备</h3><p>手机、电脑与平板可共用同一订阅。注意各套餐同时在线台数上限，超出后优先保证已连接设备的稳定性。</p></div></div></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为当前官网展示的固定套餐。流量按月重置，年付可锁定优惠价格。开通后即可在账户中获取机场订阅，用于 VPN 梯子与加速器客户端。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"badge\">重点推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p>选择套餐时优先匹配设备数量与流量峰值。轻度浏览可选基础版；需要完整解锁与游戏专线时建议旗舰版；多人共用或需要定制路由再考虑团队版。</p></section><section id=\"guide\"><h2>配置流程与操作说明</h2><p>白嫖(Telelink) 的核心体验建立在可重复的配置流程上。按下列步骤操作，通常可在数分钟内完成从开通到连上节点。</p><div class=\"steps\"><h3>选择套餐并完成开通</h3><p>在官网确认流量、设备数与是否需要 IPLC。支付成功后账户即时生效，无需等待人工开通。</p><h3>复制机场订阅地址</h3><p>登录后在用户中心复制通用订阅或 Clash 订阅。请只在本机客户端中粘贴，不要把订阅发到公开聊天以免被滥用。</p><h3>前往官网下载对应客户端</h3><p>Windows 可使用 v2rayN 或 Clash Verge；macOS 可使用 Clash 系或 Surge；Android 可使用 Clash Meta；iOS 可使用 Shadowrocket 或同类工具。以官网下载说明中的兼容列表为准。</p><h3>导入订阅并更新节点</h3><p>打开客户端，新建订阅并粘贴地址，执行更新。成功后会出现按地区分组的节点列表，可先测延迟再连接。</p><h3>按场景选择节点与分流</h3><p>浏览与视频选择解锁完整的区域节点；游戏选择 IPLC 或标注加速的线路。需要时开启规则分流，让国内流量直连、跨境流量走代理，减少不必要的绕路。</p></div><p>完成首次配置后，日常只需定期更新订阅。若某条线路波动，切换同区域其他节点即可，不必重新安装客户端。</p></section><section id=\"download\"><h2>客户端下载与官网指引</h2><p>白嫖(Telelink) 不强制使用单一封闭客户端。官方下载的意义在于给出经过验证的导入方式，避免来源不明的修改包。请通过本站「客户端下载」说明选择系统，再导入账户内的机场订阅。</p><ul><li><a href=\"#guide\">Windows：导入订阅后选择系统代理或 TUN 模式</a></li><li><a href=\"#guide\">macOS：注意系统网络权限与菜单栏常驻</a></li><li><a href=\"#guide\">Android：建议开启分应用代理以免占用全部流量</a></li><li><a href=\"#guide\">iOS：使用支持订阅的客户端并保持后台刷新</a></li></ul><p>若更新订阅后节点为空，先检查套餐是否在有效期，再确认复制的是完整链接。官网不通过第三方网盘分发核心配置。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>白嫖(Telelink) 如何进行客户端官方下载？</summary><p>在本站查看客户端下载说明，按操作系统选择兼容工具，再使用账户中的机场订阅导入。不要从来源不明的页面安装修改版，以免订阅泄露。</p></details><details><summary>机场订阅链接在哪里获取？</summary><p>开通套餐并登录后，用户中心会提供通用订阅与 Clash 格式地址。复制后即可在客户端中更新节点，用于 VPN 梯子与网络加速。</p></details><details><summary>三个套餐的同时在线设备如何理解？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。同一账号在多台设备同时连接时计入上限。达到上限后新设备可能无法稳定握手，建议先断开闲置会话。</p></details><details><summary>哪些套餐更适合流媒体和游戏加速？</summary><p>基础版提供基础流媒体解锁与普通线路。需要全节点原生解锁以及 IPLC 游戏加速时，优先选择旗舰版。团队版在高带宽与定制路由上更适合多人共用。</p></details><details><summary>连接失败或延迟突然升高怎么办？</summary><p>先更新订阅获取最新节点，切换同地区备用线路，并检查本地系统时间与客户端内核是否过旧。旗舰版用户可通过优先工单反馈具体节点名称与错误提示。</p></details><details><summary>流量如何计算，年付是否仍按月重置？</summary><p>套餐流量按月重置，不跨月累计。年付只是支付周期优惠，每月可用额度仍以对应套餐为准，例如基础版每月 100GB、旗舰版每月 300GB、团队版每月 1000GB。</p></details></section></div><aside><h2>快速入口</h2><p><a href=\"#plans\">查看套餐与年付价格</a></p><p><a href=\"#guide\">按步骤完成配置流程</a></p><p><a href=\"#download\">客户端下载说明</a></p><p><a href=\"#faq\">阅读常见问题</a></p><div class=\"ad\"><strong>广告位</strong><p>推荐在官网完成 Telelink 机场订阅导入，搭配正规客户端使用，网络加速更可控。</p></div><h3>节点使用提示</h3><p>亚洲节点适合日常访问与多数流媒体；需要更低游戏延迟时使用标注 IPLC 的线路。晚高峰可优先选择负载较低的备用入口。</p></aside></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main></div><footer id=\"links\"><div class=\"footer-inner\"><h2>友情链接</h2><div class=\"friend-links\"><a href=\"#intro\">品牌简介</a><a href=\"#guide\">配置流程</a><a href=\"#download\">官网下载</a><a href=\"#faq\">帮助中心</a><a href=\"#plans\">套餐说明</a><a href=\"#\">网络工具导航</a><a href=\"#\">客户端兼容列表</a></div><p>网站地图：<a href=\"#\">sitemap</a> · 白嫖(Telelink) 官方网站 · 本页介绍机场订阅、VPN 梯子网络加速与客户端下载。</p><p>链接仅使用页内锚点。内容用于说明套餐、配置与下载路径，请以账户内实时订阅为准。</p></div></footer>",
+          "hash": "5e7be04700a0f157eecc5926dc414f3d2b4bb01a788f91b7746442902f295724",
+          "seo": {
+            "title": "白嫖(Telelink)官网 | 机场订阅、VPN梯子网络加速与客户端下载",
+            "keywords": "白嫖,Telelink,白嫖机场,Telelink VPN,VPN梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,官方网站",
+            "description": "白嫖(Telelink)提供稳定高速的机场订阅与VPN梯子网络加速服务，支持多端客户端下载与清晰配置流程，覆盖流媒体、游戏与办公场景。欢迎访问官网获取官方下载与使用说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "chengxiangjob.cn",
+    "host": "p-ee059ae3db.chengxiangjob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "chengxiangjob.cn",
+      "url": "https://chengxiangjob.cn/",
+      "label": "百草园(NSFWCloud)",
+      "apex": "chengxiangjob.cn",
+      "kind": null,
+      "identity": "fdtuafv7t/page-5556419d5216eff41cbfaf3c"
+    },
+    {
+      "host": "jcyqcs.cn",
+      "url": "https://jcyqcs.cn/",
+      "label": "白嫖(Telelink)",
+      "apex": "jcyqcs.cn",
+      "kind": null,
+      "identity": "enmxfjqtkw/page-01b16097c1e3a43b7391252c"
+    },
+    {
+      "host": "juheliandong.cn",
+      "url": "https://juheliandong.cn/",
+      "label": "白嫖(Telelink)",
+      "apex": "juheliandong.cn",
+      "kind": null,
+      "identity": "xhmnytmhh/page-f3d0cc68b1464df7efe8d42b"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e6a4e34a0b6972e9631e0af9d660f80e4259ce58f40f6317b687b6b2d4b8fab0",
+    "sitemap.xml": "a5a047195af5a6a57dceb9995ee2a30149d67dd9afc5c0abec3c374e8ff176c5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b1aa11fb1ce2c29a8633ee9dc77fd990d8e6613e4d9dc7eba525d259433c3a56",
+    "robots.txt": "7d5e5923ed41fa5a7e9b7c388b2a2d06e758b7729ea70967acade3066e6a4596",
+    "45117473cf80b05490d8e3a9591a5799.txt": "3e498f5fa33b0565bcacd5efd7c7f254252c4f204a5e727ed6c469811207affd"
+  },
+  "revision": "9148e47510d32f67d49b585461d85064fa337f12715b5da7314975a2d4896061"
+}
